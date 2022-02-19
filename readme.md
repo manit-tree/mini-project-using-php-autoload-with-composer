@@ -2,6 +2,23 @@
 
 I try to keep what i learn on GitHub so one day when i need to recall, i khow it is here. And this is my mini php project to learn how to use PHP's Autoload with Composer.
 
+# Folder Structure
+
+```
+lib ---
+      |
+      --- Animals
+      |      |
+      |      --- Bird.php
+      |
+      --- Artists
+             |
+             --- Bird.php
+
+composer.json
+index.php
+```
+
 # How it Works 
 
 1. create composer.json file + map namespace with folder that you keep your classes
