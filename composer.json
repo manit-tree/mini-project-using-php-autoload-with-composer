@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Animals\\": "lib/Animals/",
+        "Artists\\": "lib/Artists/"
+        }
+    }
+}
